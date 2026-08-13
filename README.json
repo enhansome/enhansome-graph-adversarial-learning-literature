@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "description": "Search keywords like conference name (e.g., ), task name (e.g., ), model name (e.g., ), or method name (e.g., ) over the webpage to quickly locate related papers.",
+      "items": [],
+      "title": "How to Search?"
+    },
+    {
+      "description": "Attack papers sorted by year: | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 |\nDefense papers sorted by year: | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 |",
+      "items": [],
+      "title": "Quick Links"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2023 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2022 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2021 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2020 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2019 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2018 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Papers 2017 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Papers 2023 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Papers 2022 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Papers 2021 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Papers 2020 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Papers 2019 [Back to Top]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Papers 2018 [Back to Top]"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:56.054Z",
+    "original_repository": "safe-graph/graph-adversarial-learning-literature",
+    "original_repository_sha": "7e5300d48aa6bf0bac7b067ca9eea310dde99a1e",
+    "enhanced_repository": "enhansome/enhansome-graph-adversarial-learning-literature",
+    "enhanced_repository_description": null,
+    "title": "Awesome graph adversarial learning literature with stars"
+  }
+}
