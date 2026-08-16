@@ -256,7 +256,7 @@ Search keywords like conference name (e.g., `NeurIPS`), task name (e.g., `Link P
 | Year | Title                                                        | Type   | Target Task      | Target Model                           | Venue    | Paper                                    | Code                                                                                      |
 | ---- | ------------------------------------------------------------ | ------ | ---------------- | -------------------------------------- | -------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 2017 | **Practical Attacks Against Graph-based Clustering**         | Attack | Graph Clustering | SVD, node2vec, Community Detection Alg | CCS 2017 | [Link](https://arxiv.org/abs/1708.09056) |                                                                                           |
-| 2017 | **Adversarial Sets for Regularising Neural Link Predictors** | Attack | Link Prediction  | Knowledge Graph Embeddings             | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) | [Link](https://github.com/uclmr/inferbeddings) ⭐ 59 \| 🐛 2 \| 🌐 Python \| 📅 2018-05-12 |
+| 2017 | **Adversarial Sets for Regularising Neural Link Predictors** | Attack | Link Prediction  | Knowledge Graph Embeddings             | UAI 2017 | [Link](https://arxiv.org/abs/1707.07596) | [Link](https://github.com/uclmr/inferbeddings) ⭐ 60 \| 🐛 2 \| 🌐 Python \| 📅 2018-05-12 |
 
 ## Defense
 
@@ -438,4 +438,4 @@ Search keywords like conference name (e.g., `NeurIPS`), task name (e.g., `Link P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
