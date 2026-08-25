@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Revisiting Robustness in Graph Machine Learning Attack Node Classification GCN, SGC, APPNP, GAT, GATv2, GraphSAGE, LP ICLR'23 Link Link",
+              "title": "Link",
+              "description": "Revisiting Robustness in Graph Machine Learning Attack Node Classification GCN, SGC, APPNP, GAT, GATv2, GraphSAGE, LP ICLR'23 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -22,8 +22,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Unnoticeable Backdoor Attacks on Graph Neural Networks Attack Node classification, Graph classification GCN, GraphSage, and GAT ArXiv Link Link",
+              "title": "Link",
+              "description": "Unnoticeable Backdoor Attacks on Graph Neural Networks Attack Node classification, Graph classification GCN, GraphSage, and GAT ArXiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -37,8 +37,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Attacking Fake News Detectors via Manipulating News Social Engagement Attack Fake News Detection GAT, GCN, and GraphSAGE) WWW'23 Link Link",
+              "title": "Link",
+              "description": "Attacking Fake News Detectors via Manipulating News Social Engagement Attack Fake News Detection GAT, GCN, and GraphSAGE) WWW'23 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,8 +52,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Node Injection for Class-specific Network Poisoning Attack Node Classification GCN arXiv Link Link",
+              "title": "Link",
+              "description": "Node Injection for Class-specific Network Poisoning Attack Node Classification GCN arXiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -74,8 +74,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias Attack Node Classification GCN/GAT/GraphSAGE NeurIPS 2022 Link Link",
+              "title": "Link",
+              "description": "Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias Attack Node Classification GCN/GAT/GraphSAGE NeurIPS 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -89,8 +89,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning Attack Node Classification GCN/SGC/GAT/APPNP AAAI23 Link Link",
+              "title": "Link",
+              "description": "Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning Attack Node Classification GCN/SGC/GAT/APPNP AAAI23 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,8 +104,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems Attack Query-based systems attribute inference Diffix/TableBuilder/SimpleQBS CCS 2022 Link Link",
+              "title": "Link",
+              "description": "QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems Attack Query-based systems attribute inference Diffix/TableBuilder/SimpleQBS CCS 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,8 +119,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Are Defenses for Graph Neural Networks Robust? Attack Node Classification GNN, GCN, Jaccard GCN, SVD GCN, GNNGuard, RGCN, ProGNN, GRAND, Soft Median GDC NeurIPS 2022 Link Link",
+              "title": "Link",
+              "description": "Are Defenses for Graph Neural Networks Robust? Attack Node Classification GNN, GCN, Jaccard GCN, SVD GCN, GNNGuard, RGCN, ProGNN, GRAND, Soft Median GDC NeurIPS 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,8 +134,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Sparse Vicious Attacks on Graph Neural Networks Attack Link prediction GNN arXiv Link Link",
+              "title": "Link",
+              "description": "Sparse Vicious Attacks on Graph Neural Networks Attack Link prediction GNN arXiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,8 +149,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Model Inversion Attacks against Graph Neural Networks Attack Node Classification GCN, GAT and GraphSAGE TKDE Link Link",
+              "title": "Link",
+              "description": "Model Inversion Attacks against Graph Neural Networks Attack Node Classification GCN, GAT and GraphSAGE TKDE Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -164,8 +164,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks Attack node classification GNN IEEE ICDM 2022 Link Link",
+              "title": "Link",
+              "description": "Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks Attack node classification GNN IEEE ICDM 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,8 +179,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation Attack Node Classification GNNs CIKM 2022 Link Link",
+              "title": "Link",
+              "description": "Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation Attack Node Classification GNNs CIKM 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -194,8 +194,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Link-Backdoor: Backdoor Attack on Link Prediction via Node Injection Attack Link Prediction GAE, VGAE, GIC, ARGA, ARVGA arXiv Link Link",
+              "title": "Link",
+              "description": "Link-Backdoor: Backdoor Attack on Link Prediction via Node Injection Attack Link Prediction GAE, VGAE, GIC, ARGA, ARVGA arXiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -209,8 +209,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors Attack Node Classification GNNs IJCAI 2022 Link Link",
+              "title": "Link",
+              "description": "Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors Attack Node Classification GNNs IJCAI 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,8 +224,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees Attack Node Classification GNNs CVPR 2022 Link Link",
+              "title": "Link",
+              "description": "Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees Attack Node Classification GNNs CVPR 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -239,8 +239,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "A Targeted Universal Attack on Graph Convolutional Network by Using Fake Nodes Attack Node Classification GCN Neural Processing Letters Link Link",
+              "title": "Link",
+              "description": "A Targeted Universal Attack on Graph Convolutional Network by Using Fake Nodes Attack Node Classification GCN Neural Processing Letters Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -254,8 +254,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Understanding and Improving Graph Injection Attack by Promoting Unnoticeability Attack Node Classification GNNs ICLR 2022 Link Link",
+              "title": "Link",
+              "description": "Understanding and Improving Graph Injection Attack by Promoting Unnoticeability Attack Node Classification GNNs ICLR 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -269,8 +269,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation Attack Node Classification, Link Prediction GCN WWW 2022 Link Link",
+              "title": "Link",
+              "description": "Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation Attack Node Classification, Link Prediction GCN WWW 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,8 +291,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Model Stealing Attacks Against Inductive Graph Neural Networks Attack Node Classification, Model Stealing GNNs IEEE S&P 2022 Link Link",
+              "title": "Link",
+              "description": "Model Stealing Attacks Against Inductive Graph Neural Networks Attack Node Classification, Model Stealing GNNs IEEE S&P 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -306,8 +306,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications Attack Graph Classification GNNs ICDM 2021 Link Link",
+              "title": "Link",
+              "description": "Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications Attack Graph Classification GNNs ICDM 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -321,8 +321,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods Attack Knowledge Graph Embeddings Knowledge Graph Embedding Models EMNLP 2021 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods Attack Knowledge Graph Embeddings Knowledge Graph Embedding Models EMNLP 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -336,8 +336,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Graph Robustness Benchmark: Benchmarking the Adversarial Robustness of Graph Machine Learning Attack Node Classification GNNs NeurIPS 2021 Link Link",
+              "title": "Link",
+              "description": "Graph Robustness Benchmark: Benchmarking the Adversarial Robustness of Graph Machine Learning Attack Node Classification GNNs NeurIPS 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,8 +351,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Adversarial Attacks on Graph Classification via Bayesian Optimisation Attack Graph Classification GNNs NeurIPS 2021 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attacks on Graph Classification via Bayesian Optimisation Attack Graph Classification GNNs NeurIPS 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -366,8 +366,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Robustness of Graph Neural Networks at Scale Attack Node Classification GNNs NeurIPS 2021 Link Link",
+              "title": "Link",
+              "description": "Robustness of Graph Neural Networks at Scale Attack Node Classification GNNs NeurIPS 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -381,8 +381,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Inference Attacks Against Graph Neural Networks Attack Graph/Property Inference GNNs USENIX Security 2022 Link Link",
+              "title": "Link",
+              "description": "Inference Attacks Against Graph Neural Networks Attack Graph/Property Inference GNNs USENIX Security 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,8 +396,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Single Node Injection Attack against Graph Neural Networks Attack Node Classification GNNs CIKM 2021 Link Link",
+              "title": "Link",
+              "description": "Single Node Injection Attack against Graph Neural Networks Attack Node Classification GNNs CIKM 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -411,8 +411,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Single-Node Attack for Fooling Graph Neural Networks Attack Node Classification GNNs KDD 2021 Workshop Link Link",
+              "title": "Link",
+              "description": "Single-Node Attack for Fooling Graph Neural Networks Attack Node Classification GNNs KDD 2021 Workshop Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,8 +426,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Poisoning Knowledge Graph Embeddings via Relation Inference Patterns Attack Knowledge Graph Embedding Knowledge Graph Embedding Models ACL 2021 Link Link",
+              "title": "Link",
+              "description": "Poisoning Knowledge Graph Embeddings via Relation Inference Patterns Attack Knowledge Graph Embedding Knowledge Graph Embedding Models ACL 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -441,8 +441,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Structack: Structure-based Adversarial Attacks on Graph Neural Networks Attack Node Classification GCN ACM Hypertext Link Link",
+              "title": "Link",
+              "description": "Structack: Structure-based Adversarial Attacks on Graph Neural Networks Attack Node Classification GCN ACM Hypertext Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,8 +456,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Evaluating Graph Vulnerability and Robustness using TIGER Attack Robustness Measure Robustness Measure Arxiv Link Link",
+              "title": "Link",
+              "description": "Evaluating Graph Vulnerability and Robustness using TIGER Attack Robustness Measure Robustness Measure Arxiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,8 +471,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Adversarial Attack on Network Embeddings via Supervised Network Poisoning Attack Node Classification, Link Prediction DeepWalk, Node2vec, LINE, GCN PAKDD 2021 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attack on Network Embeddings via Supervised Network Poisoning Attack Node Classification, Link Prediction DeepWalk, Node2vec, LINE, GCN PAKDD 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -493,8 +493,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Adversarial Label-Flipping Attack and Defense for Graph Neural Networks Attack Node Classification GNNs ICDM 2020 Link Link",
+              "title": "Link",
+              "description": "Adversarial Label-Flipping Attack and Defense for Graph Neural Networks Attack Node Classification GNNs ICDM 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,8 +508,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Exploratory Adversarial Attacks on Graph Neural Networks Attack Node Classification GCN ICDM 2020 Link Link",
+              "title": "Link",
+              "description": "Exploratory Adversarial Attacks on Graph Neural Networks Attack Node Classification GCN ICDM 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -523,8 +523,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "A Targeted Universal Attack on Graph Convolutional Network Attack Node Classification GCN Arxiv Link Link",
+              "title": "Link",
+              "description": "A Targeted Universal Attack on Graph Convolutional Network Attack Node Classification GCN Arxiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,8 +538,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation Attack Commonsense Reasoning Recommender System Knowledge Graph ICLR 2021 Link Link",
+              "title": "Link",
+              "description": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation Attack Commonsense Reasoning Recommender System Knowledge Graph ICLR 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,8 +553,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Towards More Practical Adversarial Attacks on Graph Neural Networks Attack Node Classification GNNs NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Towards More Practical Adversarial Attacks on Graph Neural Networks Attack Node Classification GNNs NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,8 +568,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Robust Spammer Detection by Nash Reinforcement Learning Attack Fraud Detection Graph-based Fraud Detector KDD 2020 Link Link",
+              "title": "Link",
+              "description": "Robust Spammer Detection by Nash Reinforcement Learning Attack Fraud Detection Graph-based Fraud Detector KDD 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -583,8 +583,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models Attack Node Classification GCN Arxiv Link Link",
+              "title": "Link",
+              "description": "Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models Attack Node Classification GCN Arxiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -598,8 +598,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Adversarial Attack on Community Detection by Hiding Individuals Attack Community Detection GCN WWW 2020 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attack on Community Detection by Hiding Individuals Attack Community Detection GCN WWW 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -620,8 +620,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs Attack Node Classification GCN, Tensor Embedding WSDM 2020 Link Link",
+              "title": "Link",
+              "description": "All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs Attack Node Classification GCN, Tensor Embedding WSDM 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -635,8 +635,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models Attack Node Classification GCN, SGC AAAI 2020 Link Link",
+              "title": "Link",
+              "description": "A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models Attack Node Classification GCN, SGC AAAI 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,8 +650,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective Attack Node Classification GNN IJCAI 2019 Link Link",
+              "title": "Link",
+              "description": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective Attack Node Classification GNN IJCAI 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -665,8 +665,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense Attack Node Classification GCN IJCAI 2019 Link Link",
+              "title": "Link",
+              "description": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense Attack Node Classification GCN IJCAI 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -680,8 +680,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Adversarial Attacks on Node Embeddings via Graph Poisoning Attack Node Classification, Community Detection node2vec, DeepWalk, GCN, Spectral Embedding, Label Propagation ICML 2019 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attacks on Node Embeddings via Graph Poisoning Attack Node Classification, Community Detection node2vec, DeepWalk, GCN, Spectral Embedding, Label Propagation ICML 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -695,8 +695,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Adversarial Attacks on Graph Neural Networks via Meta Learning Attack Node Classification GCN, CLN, DeepWalk ICLR 2019 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attacks on Graph Neural Networks via Meta Learning Attack Node Classification GCN, CLN, DeepWalk ICLR 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,8 +717,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2018",
-              "description": "Adversarial Attack on Graph Structured Data Attack Node Classification, Graph Classification GNN, GCN ICML 2018 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attack on Graph Structured Data Attack Node Classification, Graph Classification GNN, GCN ICML 2018 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -732,8 +732,8 @@
             },
             {
               "node_type": "item",
-              "title": "2018",
-              "description": "Adversarial Attacks on Neural Networks for Graph Data Attack Node Classification GCN KDD 2018 Link Link",
+              "title": "Link",
+              "description": "Adversarial Attacks on Neural Networks for Graph Data Attack Node Classification GCN KDD 2018 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -747,8 +747,8 @@
             },
             {
               "node_type": "item",
-              "title": "2018",
-              "description": "Hiding individuals and communities in a social network Attack Community Detection Community Detection Algs Nature Human Behavior Link Link",
+              "title": "Link",
+              "description": "Hiding individuals and communities in a social network Attack Community Detection Community Detection Algs Nature Human Behavior Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -769,8 +769,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2017",
-              "description": "Adversarial Sets for Regularising Neural Link Predictors Attack Link Prediction Knowledge Graph Embeddings UAI 2017 Link Link",
+              "title": "Link",
+              "description": "Adversarial Sets for Regularising Neural Link Predictors Attack Link Prediction Knowledge Graph Embeddings UAI 2017 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -797,8 +797,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Revisiting Robustness in Graph Machine Learning Defense Node Classification GCN, SGC, APPNP, GAT, GATv2, GraphSAGE, LP ICLR'23 Link Link",
+              "title": "Link",
+              "description": "Revisiting Robustness in Graph Machine Learning Defense Node Classification GCN, SGC, APPNP, GAT, GATv2, GraphSAGE, LP ICLR'23 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -812,8 +812,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Empowering Graph Representation Learning with Test-Time Graph Transformation Defense Node Classification GCN ICLR Link Link",
+              "title": "Link",
+              "description": "Empowering Graph Representation Learning with Test-Time Graph Transformation Defense Node Classification GCN ICLR Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -834,8 +834,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "ERGCN: Data enhancement-based robust graph convolutional network against adversarial attacks Defense Information Sciences Node Classification GCN/GCN-Jaccard/RGGCN/Pro-GNN/SimP-GCN/EGCN Link Link",
+              "title": "Link",
+              "description": "ERGCN: Data enhancement-based robust graph convolutional network against adversarial attacks Defense Information Sciences Node Classification GCN/GCN-Jaccard/RGGCN/Pro-GNN/SimP-GCN/EGCN Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -849,8 +849,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "On the Robustness of Graph Neural Diffusion to Topology Perturbations Defense Node Classification GAT, GraphSAGE, GIN, APPNP arXiv preprint Link Link",
+              "title": "Link",
+              "description": "On the Robustness of Graph Neural Diffusion to Topology Perturbations Defense Node Classification GAT, GraphSAGE, GIN, APPNP arXiv preprint Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -864,8 +864,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond Defense Graph Matching Graph Matching Algs CVPR 2022 Link Link",
+              "title": "Link",
+              "description": "Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond Defense Graph Matching Graph Matching Algs CVPR 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -879,8 +879,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "GUARD: Graph Universal Adversarial Defense Defense Node Classification GNNs Arxiv Link Link",
+              "title": "Link",
+              "description": "GUARD: Graph Universal Adversarial Defense Defense Node Classification GNNs Arxiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -894,8 +894,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision Defense Node Classification GNNs AAAI 2022 Link Link",
+              "title": "Link",
+              "description": "Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision Defense Node Classification GNNs AAAI 2022 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -916,8 +916,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Node Feature Kernels Increase Graph Convolutional Robustness Defense Node Classification GNNs Arxiv Link Link",
+              "title": "Link",
+              "description": "Node Feature Kernels Increase Graph Convolutional Robustness Defense Node Classification GNNs Arxiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,8 +931,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "A Lightweight Metric Defence Strategy for Graph Neural Networks Against Poisoning Attacks Defense Node Classification GNNs ICICS 2021 Link Link",
+              "title": "Link",
+              "description": "A Lightweight Metric Defence Strategy for Graph Neural Networks Against Poisoning Attacks Defense Node Classification GNNs ICICS 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -946,8 +946,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Elastic Graph Neural Networks Defense Node classification GNNs ICML 2021 Link Link",
+              "title": "Link",
+              "description": "Elastic Graph Neural Networks Defense Node classification GNNs ICML 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -961,8 +961,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Understanding Structural Vulnerability in Graph Convolutional Networks Defense Node Classification GNNs IJCAI 2021 Link Link",
+              "title": "Link",
+              "description": "Understanding Structural Vulnerability in Graph Convolutional Networks Defense Node Classification GNNs IJCAI 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,8 +976,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Information Obfuscation of Graph Neural Networks Defense Recommender System, Knowledge Graph, Quantum Chemistry GNNs ICML 2021 Link Link",
+              "title": "Link",
+              "description": "Information Obfuscation of Graph Neural Networks Defense Recommender System, Knowledge Graph, Quantum Chemistry GNNs ICML 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -991,8 +991,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
-              "description": "Node Similarity Preserving Graph Convolutional Networks Defense Node Classification GNNs WSDM 2021 Link Link",
+              "title": "Link",
+              "description": "Node Similarity Preserving Graph Convolutional Networks Defense Node Classification GNNs WSDM 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,8 +1013,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Graph Stochastic Neural Networks for Semi-supervised Learning Defense Node Classification GNNs NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Graph Stochastic Neural Networks for Semi-supervised Learning Defense Node Classification GNNs NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1028,8 +1028,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Learning to Drop: Robust Graph Neural Network via Topological Denoising Defense Node Classification GNNs WSDM 2021 Link Link",
+              "title": "Link",
+              "description": "Learning to Drop: Robust Graph Neural Network via Topological Denoising Defense Node Classification GNNs WSDM 2021 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1043,8 +1043,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Graph Contrastive Learning with Augmentations Defense Node Classification GNNs NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Graph Contrastive Learning with Augmentations Defense Node Classification GNNs NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1058,8 +1058,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Graph Information Bottleneck Defense Node Classification GNNs NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Graph Information Bottleneck Defense Node Classification GNNs NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,8 +1073,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks Defense Graph Classification GCN NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks Defense Graph Classification GCN NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,8 +1088,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Reliable Graph Neural Networks via Robust Aggregation Defense Node Classification GNNs NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Reliable Graph Neural Networks via Robust Aggregation Defense Node Classification GNNs NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1103,8 +1103,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Graph Random Neural Networks for Semi-Supervised Learning on Graphs Defense Node Classification GCN NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Graph Random Neural Networks for Semi-Supervised Learning on Graphs Defense Node Classification GCN NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,8 +1118,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings Defense Node Classification GCN NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings Defense Node Classification GCN NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,8 +1133,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "GNNGuard: Defending Graph Neural Networks against Adversarial Attacks Defense Node Classification GNNs NeurIPS 2020 Link Link",
+              "title": "Link",
+              "description": "GNNGuard: Defending Graph Neural Networks against Adversarial Attacks Defense Node Classification GNNs NeurIPS 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1148,8 +1148,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "A Feature-Importance-Aware and Robust Aggregator for GCN Defense Node Classification Graph Classification GNNs CIKM 2020 Link Link",
+              "title": "Link",
+              "description": "A Feature-Importance-Aware and Robust Aggregator for GCN Defense Node Classification Graph Classification GNNs CIKM 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1163,8 +1163,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "DefenseVGAE: Defending against Adversarial Attacks on Graph Data via a Variational Graph Autoencoder Defense Node Classification GNNs Arxiv Link Link",
+              "title": "Link",
+              "description": "DefenseVGAE: Defending against Adversarial Attacks on Graph Data via a Variational Graph Autoencoder Defense Node Classification GNNs Arxiv Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1178,8 +1178,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Robust Spammer Detection by Nash Reinforcement Learning Defense Fraud Detection Graph-based Fraud Detector KDD 2020 Link Link",
+              "title": "Link",
+              "description": "Robust Spammer Detection by Nash Reinforcement Learning Defense Fraud Detection Graph-based Fraud Detector KDD 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1193,8 +1193,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations Defense Robustness Certification GCN KDD 2020 Link Link",
+              "title": "Link",
+              "description": "Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations Defense Robustness Certification GCN KDD 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,8 +1208,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More Defense Robustness Certification GNN ICML 2020 Link Link",
+              "title": "Link",
+              "description": "Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More Defense Robustness Certification GNN ICML 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1223,8 +1223,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "Graph Structure Learning for Robust Graph Neural Networks Defense Node Classification GCN KDD 2020 Link Link",
+              "title": "Link",
+              "description": "Graph Structure Learning for Robust Graph Neural Networks Defense Node Classification GCN KDD 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1238,8 +1238,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "On The Stability of Polynomial Spectral Graph Filters Defense Graph Property Spectral Graph Filter ICASSP 2020 Link Link",
+              "title": "Link",
+              "description": "On The Stability of Polynomial Spectral Graph Filters Defense Graph Property Spectral Graph Filter ICASSP 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1253,8 +1253,8 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
-              "description": "On the Robustness of Cascade Diffusion under Node Attacks Defense Influence Maximization IC Model WWW 2020 Workshop Link Link",
+              "title": "Link",
+              "description": "On the Robustness of Cascade Diffusion under Node Attacks Defense Influence Maximization IC Model WWW 2020 Workshop Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1275,8 +1275,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs Defense Node Classification GCN, Tensor Embedding WSDM 2020 Link Link",
+              "title": "Link",
+              "description": "All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs Defense Node Classification GCN, Tensor Embedding WSDM 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1290,8 +1290,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Certifiable Robustness to Graph Perturbations Defense Robustness Certification GNN NeurIPS 2019 Link Link",
+              "title": "Link",
+              "description": "Certifiable Robustness to Graph Perturbations Defense Robustness Certification GNN NeurIPS 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1305,8 +1305,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Adversarial Training Methods for Network Embedding Defense Node Classification DeepWalk WWW 2019 Link Link",
+              "title": "Link",
+              "description": "Adversarial Training Methods for Network Embedding Defense Node Classification DeepWalk WWW 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1320,8 +1320,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Transferring Robustness for Graph Neural Network Against Poisoning Attacks Defense Node Classification GNN WSDM 2020 Link Link",
+              "title": "Link",
+              "description": "Transferring Robustness for Graph Neural Network Against Poisoning Attacks Defense Node Classification GNN WSDM 2020 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,8 +1335,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Certifiable Robustness and Robust Training for Graph Convolutional Networks Defense Robustness Certification GCN KDD 2019 Link Link",
+              "title": "Link",
+              "description": "Certifiable Robustness and Robust Training for Graph Convolutional Networks Defense Robustness Certification GCN KDD 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1350,8 +1350,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective Defense Node Classification GNN IJCAI 2019 Link Link",
+              "title": "Link",
+              "description": "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective Defense Node Classification GNN IJCAI 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1365,8 +1365,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense Defense Node Classification GCN IJCAI 2019 Link Link",
+              "title": "Link",
+              "description": "Adversarial Examples on Graph Data: Deep Insights into Attack and Defense Defense Node Classification GCN IJCAI 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1380,8 +1380,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Robust Graph Convolutional Networks Against Adversarial Attacks Defense Node Classification GCN KDD 2019 Link Link",
+              "title": "Link",
+              "description": "Robust Graph Convolutional Networks Against Adversarial Attacks Defense Node Classification GCN KDD 2019 Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1395,8 +1395,8 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
-              "description": "Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure Defense Node Classification GCN TKDE Link Link",
+              "title": "Link",
+              "description": "Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure Defense Node Classification GCN TKDE Link",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1418,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:32.395Z",
+    "last_updated": "2026-08-25T06:09:58.657Z",
     "original_repository": "safe-graph/graph-adversarial-learning-literature",
     "original_repository_id": 183684990,
     "original_repository_sha": "7e5300d48aa6bf0bac7b067ca9eea310dde99a1e",
