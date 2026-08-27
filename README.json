@@ -1418,9 +1418,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:05:52.954Z",
-    "original_repository": "safe-graph/graph-adversarial-learning-literature",
-    "original_repository_id": 183684990,
+    "last_updated": "2026-08-27T11:44:09.509Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 183684990,
+      "language": null,
+      "last_commit": "2023-12-15T22:03:27Z",
+      "owner": "safe-graph",
+      "repo": "graph-adversarial-learning-literature",
+      "stars": 861
+    },
     "original_repository_sha": "7e5300d48aa6bf0bac7b067ca9eea310dde99a1e",
     "enhanced_repository": "enhansome/enhansome-graph-adversarial-learning-literature",
     "enhanced_repository_description": null,
