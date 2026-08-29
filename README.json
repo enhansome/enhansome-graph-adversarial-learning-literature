@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The codebase used to generate the reults in the ICLR 2023 paper \"Revisiting Robustness in Graph Machine Learning\".",
+                "homepage": null,
                 "id": 630940445,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-10-15T14:49:23Z",
+                "open_issues": 1,
                 "owner": "saper0",
                 "repo": "revisiting_robustness",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official PyTorch implementation of \"Unnoticeable Backdoor Attacks on Graph Neural Networks\" (WWW 2023)",
+                "homepage": null,
                 "id": 597893644,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-03T19:48:48Z",
+                "open_issues": 5,
                 "owner": "ventr1c",
                 "repo": "UGBA",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 601272460,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-28T06:43:33Z",
+                "open_issues": 5,
                 "owner": "hwang219",
                 "repo": "AttackFakeNews",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 585827663,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-06T09:22:53Z",
+                "open_issues": 1,
                 "owner": "rahulk207",
                 "repo": "nicki",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -83,12 +103,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation for NeurIPS 2022 paper 'Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias'",
+                "homepage": "https://papers.nips.cc/paper_files/paper/2022/hash/b31aec087b4c9be97d7148dfdf6e062d-Abstract-Conference.html",
                 "id": 541847285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-11T17:07:02Z",
+                "open_issues": 0,
                 "owner": "Zihan-Liu-00",
                 "repo": "NeurIPS22--GraD",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "attacker",
+                  "graph-adversarial-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -99,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for AAAI'23 paper: Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning",
+                "homepage": null,
                 "id": 568180745,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-26T02:10:16Z",
+                "open_issues": 0,
                 "owner": "jumxglhf",
                 "repo": "G2A2C",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -115,12 +148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of ACM CCS 2022 paper \"QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems\" by Ana-Maria Cretu, Florimond Houssiau, Antoine Cully, and Yves-Alexandre de Montjoye",
+                "homepage": "https://dl.acm.org/doi/abs/10.1145/3548606.3560581",
                 "id": 517715819,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-03T11:39:40Z",
+                "open_issues": 0,
                 "owner": "imperial-aisp",
                 "repo": "querysnout",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -131,12 +169,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive evaluation reveals that most examined adversarial defenses for GNNs show no or only marginal improvement in robustness. (NeurIPS 2022)",
+                "homepage": "https://www.cs.cit.tum.de/daml/are-gnn-defenses-robust/",
                 "id": 561803148,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-17T16:22:06Z",
+                "open_issues": 1,
                 "owner": "LoadingByte",
                 "repo": "are-gnn-defenses-robust",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "adversarial-defenses",
+                  "completed",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -147,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for the paper",
+                "homepage": null,
                 "id": 538573213,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-03T15:01:56Z",
+                "open_issues": 0,
                 "owner": "GiovanniTRA",
                 "repo": "SAVAGE",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -163,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch implementation of IJCAI'21 paper \"GraphMI: Extracting Private Graph Data from Graph Neural Networks\"",
+                "homepage": null,
                 "id": 366219916,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-19T03:17:13Z",
+                "open_issues": 2,
                 "owner": "zaixizhang",
                 "repo": "GraphMI",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -179,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 417095218,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-08T08:11:27Z",
+                "open_issues": 0,
                 "owner": "mengcao327",
                 "repo": "attack-gnn-fairness",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -195,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation of “Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation\" (CIKM 2022).",
+                "homepage": null,
                 "id": 522084850,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-28T22:03:09Z",
+                "open_issues": 0,
                 "owner": "junzhuang-code",
                 "repo": "LInDT",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -211,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 507527195,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-25T10:39:48Z",
+                "open_issues": 1,
                 "owner": "Seaocn",
                 "repo": "Link-Backdoor",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -227,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cluster Attack: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors (IJCAI 2022 Long Presentation)",
+                "homepage": null,
                 "id": 512388501,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-10T09:01:13Z",
+                "open_issues": 0,
                 "owner": "thuwzy",
                 "repo": "Cluster-Attack",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -243,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 473878322,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-07T02:44:25Z",
+                "open_issues": 1,
                 "owner": "Metaoblivion",
                 "repo": "Bandit_GNN_Attack",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -259,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of TUA (Targeted Universal Attack)",
+                "homepage": null,
                 "id": 312542984,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-13T11:01:55Z",
+                "open_issues": 0,
                 "owner": "Nanyuu",
                 "repo": "TUA",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -275,12 +362,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] Understanding and Improving Graph Injection Attack by Promoting Unnoticeability",
+                "homepage": "https://openreview.net/forum?id=wkMG8cdvh7-",
                 "id": 425835114,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T12:09:56Z",
+                "open_issues": 1,
                 "owner": "LFhase",
                 "repo": "GIA-HAO",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "adversarial-attacks",
+                  "graph-adversarial-learning",
+                  "graph-neural-networks",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -291,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation, WWW22",
+                "homepage": null,
                 "id": 449655699,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-30T01:04:49Z",
+                "open_issues": 2,
                 "owner": "RinneSz",
                 "repo": "CLGA",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -314,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 436778427,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-10T18:35:20Z",
+                "open_issues": 4,
                 "owner": "xinleihe",
                 "repo": "GNNStealing",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -330,12 +437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Membership Inference Attack against Graph Neural Networks",
+                "homepage": null,
                 "id": 415271230,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-09T03:45:17Z",
+                "open_issues": 2,
                 "owner": "TrustworthyGNN",
                 "repo": "MIA-GNN",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -346,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for EMNLP 2021 paper 'Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods'",
+                "homepage": null,
                 "id": 404989705,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-13T09:57:00Z",
+                "open_issues": 0,
                 "owner": "PeruBhardwaj",
                 "repo": "AttributionAttack",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -362,12 +479,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Robustness Benchmark: A scalable, unified, modular, and reproducible benchmark for evaluating the adversarial robustness of Graph Machine Learning.",
+                "homepage": "https://cogdl.ai/grb/home",
                 "id": 346257001,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-06T12:31:03Z",
+                "open_issues": 8,
                 "owner": "THUDM",
                 "repo": "grb",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "adversarial-attacks",
+                  "deep-learning",
+                  "graph-neural-networks",
+                  "machine-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -378,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS '21] Adversarial Attacks on Graph Classification via Bayesian Optimisation (GRABNEL)",
+                "homepage": null,
                 "id": 416473978,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-21T20:50:53Z",
+                "open_issues": 1,
                 "owner": "xingchenwan",
                 "repo": "grabnel",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -394,12 +527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the official implementation of the paper \"Robustness of Graph Neural Networks at Scale\" (NeurIPS, 2021).",
+                "homepage": null,
                 "id": 405956577,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-07-25T15:57:34Z",
+                "open_issues": 1,
                 "owner": "sigeisler",
                 "repo": "robustness_of_gnns_at_scale",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -410,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 411411809,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-08T18:29:52Z",
+                "open_issues": 2,
                 "owner": "Zhangzhk0819",
                 "repo": "GNN-Embedding-Leaks",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -426,12 +569,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "G-NIA model from \"Single Node Injection Attack against Graph Neural Networks\" (CIKM 2021)",
+                "homepage": "https://arxiv.org/abs/2108.13049",
                 "id": 399817336,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-01-11T02:54:48Z",
+                "open_issues": 2,
                 "owner": "TaoShuchang",
                 "repo": "G-NIA",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "adversarial-attacks",
+                  "data-mining",
+                  "gnn",
+                  "graph-data",
+                  "graph-neural-networks",
+                  "machine-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -442,12 +598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 339234453,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-09T20:32:19Z",
+                "open_issues": 0,
                 "owner": "gnnattack",
                 "repo": "SINGLE",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -458,12 +619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for ACL-IJCNLP 2021 paper 'Poisoning Knowledge Graph Embeddings via Relation Inference Patterns'",
+                "homepage": null,
                 "id": 372613758,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-13T09:40:55Z",
+                "open_issues": 0,
                 "owner": "PeruBhardwaj",
                 "repo": "InferenceAttack",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -474,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structural-aware attacks on GNNs",
+                "homepage": null,
                 "id": 297445817,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-01-08T14:13:50Z",
+                "open_issues": 0,
                 "owner": "sqrhussain",
                 "repo": "structack",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -490,12 +661,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python toolbox to evaluate graph vulnerability and robustness (CIKM 2021)",
+                "homepage": "https://graph-tiger.readthedocs.io",
                 "id": 270451000,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T18:17:38Z",
+                "open_issues": 2,
                 "owner": "safreita1",
                 "repo": "TIGER",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "adversarial-attacks",
+                  "attack",
+                  "cascading-failures",
+                  "data-mining",
+                  "data-science",
+                  "defense",
+                  "diffusion",
+                  "epidemics",
+                  "graph",
+                  "graph-attack",
+                  "graph-mining",
+                  "machine-learning",
+                  "netshield",
+                  "network-attack",
+                  "networks",
+                  "robustness",
+                  "simulation",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -506,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Attack on Network Embeddings via Supervised Network Poisoning",
+                "homepage": null,
                 "id": 338825887,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-14T14:41:25Z",
+                "open_issues": 0,
                 "owner": "virresh",
                 "repo": "viking",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -529,12 +729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code of paper \"Adversarial Label-Flipping Attack and Defense for Graph Neural Networks\" (ICDM 2020)",
+                "homepage": null,
                 "id": 349283589,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-19T06:10:43Z",
+                "open_issues": 1,
                 "owner": "BUPT-GAMMA",
                 "repo": "LafAK",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -545,12 +750,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of our ICDM 2020 paper \"Exploratory Adversarial Attacks on Graph Neural Networks\".",
+                "homepage": null,
                 "id": 271526782,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-21T01:48:56Z",
+                "open_issues": 0,
                 "owner": "EpoAtk",
                 "repo": "EpoAtk",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "adversarial-attacks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -561,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of TUA (Targeted Universal Attack)",
+                "homepage": null,
                 "id": 312542984,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-13T11:01:55Z",
+                "open_issues": 0,
                 "owner": "Nanyuu",
                 "repo": "TUA",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -577,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of the experiments on KG robustness",
+                "homepage": null,
                 "id": 306706979,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-03T19:10:28Z",
+                "open_issues": 1,
                 "owner": "INK-USC",
                 "repo": "deceive-KG-models",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -593,12 +815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Towards More Practical Adversarial Attacks on Graph Neural Networks (NeurIPS 2020)",
+                "homepage": "https://arxiv.org/abs/2006.05057",
                 "id": 305300008,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-13T07:15:32Z",
+                "open_issues": 0,
                 "owner": "Mark12Ding",
                 "repo": "GNN-Practical-Attack",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -609,12 +836,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for KDD 2020 paper Robust Spammer Detection by Nash Reinforcement Learning",
+                "homepage": "http://arxiv.org/abs/2006.06069",
                 "id": 266555315,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-17T23:54:42Z",
+                "open_issues": 0,
                 "owner": "YingtongDou",
                 "repo": "Nash-Detect",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "fraud-detection",
+                  "game-theory",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "security",
+                  "spam-detection"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -625,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 235854775,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-12T21:34:24Z",
+                "open_issues": 0,
                 "owner": "chisam0217",
                 "repo": "Graph-Universal-Attack",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -641,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Implemention of \"Adversarial Attack on Community Detection by Hiding Individuals\"",
+                "homepage": null,
                 "id": 244529185,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-13T12:14:47Z",
+                "open_issues": 3,
                 "owner": "halimiqi",
                 "repo": "CD-ATTACK",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -664,12 +913,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -680,12 +944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models",
+                "homepage": null,
                 "id": 228682621,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-26T06:22:04Z",
+                "open_issues": 0,
                 "owner": "SwiftieH",
                 "repo": "GFAttack",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -696,12 +965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial training for Graph Neural Networks",
+                "homepage": null,
                 "id": 200543800,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-26T12:49:44Z",
+                "open_issues": 2,
                 "owner": "KaidiXu",
                 "repo": "GCN_ADV_Train",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -712,12 +986,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -728,12 +1017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Attacks on Node Embeddings via Graph Poisoning",
+                "homepage": "https://www.kdd.in.tum.de/node_embedding_attack",
                 "id": 186476486,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-12-23T16:10:18Z",
+                "open_issues": 2,
                 "owner": "abojchevski",
                 "repo": "node_embedding_attack",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -744,12 +1038,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the paper \"Adversarial Attacks on Graph Neural Networks via Meta Learning\". ",
+                "homepage": "https://www.kdd.in.tum.de/gnn-meta-attack",
                 "id": 170546795,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-09T14:44:50Z",
+                "open_issues": 0,
                 "owner": "danielzuegner",
                 "repo": "gnn-meta-attack",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "adversarial-attacks",
+                  "deep-learning",
+                  "graph-mining",
+                  "graph-neural-network",
+                  "graph-neural-networks",
+                  "machine-learning",
+                  "meta-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -767,12 +1075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Attack on Graph Structured Data (https://arxiv.org/abs/1806.02371)",
+                "homepage": null,
                 "id": 137933237,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-16T20:56:48Z",
+                "open_issues": 9,
                 "owner": "Hanjun-Dai",
                 "repo": "graph_adversarial_attack",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -783,12 +1096,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the paper \"Adversarial Attacks on Neural Networks for Graph Data\". ",
+                "homepage": "https://www.cs.cit.tum.de/daml/forschung/nettack/",
                 "id": 135933649,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-31T12:27:10Z",
+                "open_issues": 0,
                 "owner": "danielzuegner",
                 "repo": "nettack",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "adversarial-attacks",
+                  "deep-learning",
+                  "graph-mining",
+                  "machine-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -799,12 +1123,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -822,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Injecting Background Knowledge in Neural Models via Adversarial Set Regularisation",
+                "homepage": null,
                 "id": 76377617,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-05-12T11:34:56Z",
+                "open_issues": 2,
                 "owner": "uclnlp",
                 "repo": "inferbeddings",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -851,12 +1195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The codebase used to generate the reults in the ICLR 2023 paper \"Revisiting Robustness in Graph Machine Learning\".",
+                "homepage": null,
                 "id": 630940445,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-10-15T14:49:23Z",
+                "open_issues": 1,
                 "owner": "saper0",
                 "repo": "revisiting_robustness",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -867,12 +1216,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'23] Implementation of \"Empowering Graph Representation Learning with Test-Time Graph Transformation\"",
+                "homepage": "https://openreview.net/pdf?id=Lnxl5pr018",
                 "id": 606623259,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-23T21:53:18Z",
+                "open_issues": 0,
                 "owner": "ChandlerBang",
                 "repo": "GTrans",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "adversarial-attacks",
+                  "data-centric",
+                  "distribution-shift",
+                  "graph-neural-networks",
+                  "out-of-distribution",
+                  "robustness",
+                  "test-time-adaptation"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -890,12 +1252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 528441026,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-25T02:48:50Z",
+                "open_issues": 2,
                 "owner": "star4455",
                 "repo": "ERGCN",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -906,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On the Robustness of Graph Neural Diffusion to Topology Perturbations",
+                "homepage": null,
                 "id": 537322104,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-04T02:13:24Z",
+                "open_issues": 1,
                 "owner": "zknus",
                 "repo": "Robustness-of-Graph-Neural-Diffusion",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -922,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for CVPR 2022 Paper: \"Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond\"",
+                "homepage": null,
                 "id": 474682342,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-29T07:53:27Z",
+                "open_issues": 1,
                 "owner": "Thinklab-SJTU",
                 "repo": "robustMatch",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -938,12 +1315,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CIKM 2023] GUARD: Graph Universal Adversarial Defense",
+                "homepage": null,
                 "id": 483819569,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-27T06:36:42Z",
+                "open_issues": 1,
                 "owner": "EdisonLeeeee",
                 "repo": "GUARD",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "adversarial-defense",
+                  "dgl",
+                  "graph-adversarial-learning",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -954,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code repo of GraphSS paper",
+                "homepage": null,
                 "id": 405289094,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-20T02:26:32Z",
+                "open_issues": 0,
                 "owner": "junzhuang-code",
                 "repo": "GraphSS",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -977,12 +1369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for \"Node Feature Kernels Increase Graph Convolutional Network Robustness\"",
+                "homepage": null,
                 "id": 402953889,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-07T09:53:15Z",
+                "open_issues": 0,
                 "owner": "ChangminWu",
                 "repo": "RobustGCN",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -993,12 +1390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MD-GNN: A Lightweight Metric Defence Strategy Against Adversarial Attacks",
+                "homepage": null,
                 "id": 373194324,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-14T08:55:39Z",
+                "open_issues": 1,
                 "owner": "lizi-learner",
                 "repo": "MD-GNN",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1009,12 +1411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the ICML2021 paper \"Elastic Graph Neural Networks\"",
+                "homepage": null,
                 "id": 382989774,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-07-25T20:42:19Z",
+                "open_issues": 0,
                 "owner": "lxiaorui",
                 "repo": "ElasticGNN",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1025,12 +1432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of MedianGCN and TrimmedGCN in Understanding Structural Vulnerability in Graph Convolutional Networks (IJCAI 2021).",
+                "homepage": null,
                 "id": 367416554,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-12-18T15:17:55Z",
+                "open_issues": 0,
                 "owner": "EdisonLeeeee",
                 "repo": "MedianGCN",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1041,12 +1453,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2021] Information Obfuscation of Graph Neural Networks",
+                "homepage": "https://arxiv.org/abs/2009.13504",
                 "id": 297857176,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-07-15T14:09:01Z",
+                "open_issues": 2,
                 "owner": "liaopeiyuan",
                 "repo": "GAL",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "icml"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1057,12 +1476,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the WSDM 2021 paper \"Node Similarity Preserving Graph Convolutional Networks\"",
+                "homepage": null,
                 "id": 312951626,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-11T16:40:35Z",
+                "open_issues": 1,
                 "owner": "ChandlerBang",
                 "repo": "SimP-GCN",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "adversarial-attacks",
+                  "deep-learning",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -1080,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 271044162,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-22T01:42:16Z",
+                "open_issues": 1,
                 "owner": "GSNN",
                 "repo": "GSNN",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1096,12 +1532,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning to Drop: Robust Graph Neural Network via Topological Denoising & Robust Graph Representation Learning via Neural Sparsification",
+                "homepage": null,
                 "id": 304512711,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-29T15:09:38Z",
+                "open_issues": 0,
                 "owner": "flyingdoog",
                 "repo": "PTDNet",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-network",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1112,12 +1557,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] \"Graph Contrastive Learning with Augmentations\" by Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen",
+                "homepage": null,
                 "id": 298462368,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-17T14:47:54Z",
+                "open_issues": 33,
                 "owner": "Shen-Lab",
                 "repo": "GraphCL",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "contrastive-learning",
+                  "graph-neural-network",
+                  "pre-training",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1128,12 +1583,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Information Bottleneck (GIB) for learning minimal sufficient structural and feature information using GNNs",
+                "homepage": null,
                 "id": 271432895,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-29T05:51:44Z",
+                "open_issues": 1,
                 "owner": "snap-stanford",
                 "repo": "GIB",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "graph-neural-networks",
+                  "information-bottleneck",
+                  "node-classification",
+                  "representation-learning",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1144,12 +1610,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of paper \"Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks\"",
+                "homepage": null,
                 "id": 271593766,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-17T16:55:53Z",
+                "open_issues": 0,
                 "owner": "RobustGraph",
                 "repo": "RoboGraph",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "neurips-2020"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1160,12 +1635,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the official implementation of the paper \"Reliable Graph Neural Networks via Robust Aggregation\" (NeurIPS, 2020).",
+                "homepage": "https://www.in.tum.de/daml/reliable-gnn-via-robust-aggregation/",
                 "id": 307739496,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-16T09:51:22Z",
+                "open_issues": 0,
                 "owner": "sigeisler",
                 "repo": "reliable_gnn_via_robust_aggregation",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "adversarial-robustness",
+                  "graph",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1176,12 +1660,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code and dataset of the NeurIPS 2020 paper \"Graph Random Neural Network for Semi-Supervised Learning on Graphs\"",
+                "homepage": null,
                 "id": 238666829,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:42:48Z",
+                "open_issues": 9,
                 "owner": "THUDM",
                 "repo": "GRAND",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "data-augmentation",
+                  "gnn",
+                  "graph-neural-networks",
+                  "graphs",
+                  "neurips-2020",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1192,12 +1688,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Variational Graph Convolutional Networks",
+                "homepage": null,
                 "id": 304213912,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-16T00:45:15Z",
+                "open_issues": 0,
                 "owner": "ebonilla",
                 "repo": "VGCN",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "adversarial-learning",
+                  "graph-neural-networks",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1208,12 +1713,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Defending graph neural networks against adversarial attacks (NeurIPS 2020)",
+                "homepage": "https://zitniklab.hms.harvard.edu/projects/GNNGuard",
                 "id": 241465173,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-06T22:00:39Z",
+                "open_issues": 6,
                 "owner": "mims-harvard",
                 "repo": "GNNGuard",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "adversarial-attacks",
+                  "deep-learning",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "robust-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1224,12 +1740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 288021594,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-22T07:10:46Z",
+                "open_issues": 2,
                 "owner": "LiZhang-github",
                 "repo": "LA-GCN",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1240,12 +1761,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DefenseVGAE",
+                "homepage": null,
                 "id": 272174632,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-16T02:21:45Z",
+                "open_issues": 0,
                 "owner": "zhangao520",
                 "repo": "defense-vgae",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "adversarial-machine-learning",
+                  "graph-neural-networks",
+                  "variational-autoencoder"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1256,12 +1786,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for KDD 2020 paper Robust Spammer Detection by Nash Reinforcement Learning",
+                "homepage": "http://arxiv.org/abs/2006.06069",
                 "id": 266555315,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-17T23:54:42Z",
+                "open_issues": 0,
                 "owner": "YingtongDou",
                 "repo": "Nash-Detect",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "fraud-detection",
+                  "game-theory",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "security",
+                  "spam-detection"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1272,12 +1814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 288494792,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-01T10:46:10Z",
+                "open_issues": 0,
                 "owner": "danielzuegner",
                 "repo": "robust-gcn-structure",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1288,12 +1835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the certificates proposed in the paper \"Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More\"",
+                "homepage": null,
                 "id": 279950256,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-27T11:21:35Z",
+                "open_issues": 1,
                 "owner": "abojchevski",
                 "repo": "sparse_smoothing",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1304,12 +1856,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1320,12 +1887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On the Stability of Polynomial Spectral Graph Filters (ICASSP 2020)",
+                "homepage": null,
                 "id": 239710377,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-03-11T11:07:29Z",
+                "open_issues": 0,
                 "owner": "henrykenlay",
                 "repo": "spgf",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1336,12 +1908,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evaluation and improvement of cascade diffusion robustness against node attacks.",
+                "homepage": null,
                 "id": 242376450,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-09-16T14:28:44Z",
+                "open_issues": 0,
                 "owner": "allogn",
                 "repo": "robustness",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cascade-diffusion",
+                  "graphs",
+                  "immunization",
+                  "influence-maximization",
+                  "influence-propagation",
+                  "node-attacks",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -1359,12 +1944,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1375,12 +1975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Certifiable Robustness to Graph Perturbations",
+                "homepage": "https://www.daml.in.tum.de/graph-cert",
                 "id": 217859842,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-05-08T09:35:53Z",
+                "open_issues": 1,
                 "owner": "abojchevski",
                 "repo": "graph_cert",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1391,12 +1996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Training Methods for Network Embedding, WWW2019.",
+                "homepage": null,
                 "id": 202827201,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-26T06:26:28Z",
+                "open_issues": 1,
                 "owner": "daiquanyu",
                 "repo": "AdvT4NE_WWW2019",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1407,12 +2017,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of paper \"Transferring Robustness for Graph Neural Network Against Poisoning Attacks\".",
+                "homepage": "https://arxiv.org/abs/1908.07558",
                 "id": 231638893,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-26T17:01:55Z",
+                "open_issues": 1,
                 "owner": "tangxianfeng",
                 "repo": "PA-GNN",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "adversarial-defense",
+                  "deep-learning",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning",
+                  "meta-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1423,12 +2046,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the paper \"Certifiable Robustness and Robust Training for Graph Convolutional Networks\".",
+                "homepage": "https://www.kdd.in.tum.de/research/robust-gcn/",
                 "id": 193091274,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-12-07T15:16:05Z",
+                "open_issues": 1,
                 "owner": "danielzuegner",
                 "repo": "robust-gcn",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "adversarial-robust",
+                  "deep-learning",
+                  "graph-neural-networks",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1439,12 +2072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial training for Graph Neural Networks",
+                "homepage": null,
                 "id": 200543800,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-26T12:49:44Z",
+                "open_issues": 2,
                 "owner": "KaidiXu",
                 "repo": "GCN_ADV_Train",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1455,12 +2093,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1471,12 +2124,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+                "homepage": null,
                 "id": 210014892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T02:36:41Z",
+                "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "adversarial-attacks",
+                  "adversarial-examples",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "defense",
+                  "graph-convolutional-networks",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             },
@@ -1487,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure",
+                "homepage": null,
                 "id": 225135090,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-03-21T17:16:46Z",
+                "open_issues": 0,
                 "owner": "fulifeng",
                 "repo": "GraphAT",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
             }
@@ -1506,15 +2179,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:59.571Z",
+    "last_updated": "2026-08-29T04:35:28.414Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
+      "homepage": null,
       "id": 183684990,
       "language": null,
+      "license": null,
       "last_commit": "2023-12-15T22:03:27Z",
+      "open_issues": 0,
       "owner": "safe-graph",
       "repo": "graph-adversarial-learning-literature",
-      "stars": 861
+      "stars": 861,
+      "topics": [
+        "adversarial-attacks",
+        "adversarial-machine-learning",
+        "awesome-list",
+        "data-mining",
+        "deep-learning",
+        "graph-algorithms",
+        "graph-attack",
+        "graph-data",
+        "literature-review",
+        "machine-learning",
+        "security",
+        "survey"
+      ]
     },
     "original_repository_sha": "7e5300d48aa6bf0bac7b067ca9eea310dde99a1e",
     "enhanced_repository": "enhansome/enhansome-graph-adversarial-learning-literature",
