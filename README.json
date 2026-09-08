@@ -397,7 +397,7 @@
                 "open_issues": 2,
                 "owner": "RinneSz",
                 "repo": "CLGA",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -515,7 +515,7 @@
                 "open_issues": 1,
                 "owner": "xingchenwan",
                 "repo": "grabnel",
-                "stars": 15,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -649,7 +649,7 @@
                 "open_issues": 0,
                 "owner": "sqrhussain",
                 "repo": "structack",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -667,7 +667,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-06T08:23:16Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "safreita1",
                 "repo": "TIGER",
                 "stars": 164,
@@ -922,7 +922,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -995,7 +995,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "Hanjun-Dai",
                 "repo": "graph_adversarial_attack",
-                "stars": 130,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1865,7 +1865,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1953,7 +1953,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2102,7 +2102,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2133,7 +2133,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:02:40.324Z",
+    "last_updated": "2026-09-08T14:46:02.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
