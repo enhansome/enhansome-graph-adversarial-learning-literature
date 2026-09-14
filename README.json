@@ -666,8 +666,8 @@
                 "id": 270451000,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T00:12:28Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-13T22:57:03Z",
+                "open_issues": 2,
                 "owner": "safreita1",
                 "repo": "TIGER",
                 "stars": 164,
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:40:04.305Z",
+    "last_updated": "2026-09-14T16:33:28.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
