@@ -1566,7 +1566,7 @@
                 "open_issues": 33,
                 "owner": "Shen-Lab",
                 "repo": "GraphCL",
-                "stars": 635,
+                "stars": 636,
                 "topics": [
                   "contrastive-learning",
                   "graph-neural-network",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:33:28.173Z",
+    "last_updated": "2026-09-15T15:15:54.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
