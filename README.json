@@ -557,7 +557,7 @@
                 "open_issues": 2,
                 "owner": "Zhangzhk0819",
                 "repo": "GNN-Embedding-Leaks",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:34:52.600Z",
+    "last_updated": "2026-09-22T15:09:45.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
