@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "ventr1c",
                 "repo": "UGBA",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:09:45.769Z",
+    "last_updated": "2026-09-23T15:11:07.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
