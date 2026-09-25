@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:29:33.905Z",
+    "last_updated": "2026-09-25T15:32:50.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
@@ -2191,7 +2191,7 @@
       "open_issues": 0,
       "owner": "safe-graph",
       "repo": "graph-adversarial-learning-literature",
-      "stars": 861,
+      "stars": 862,
       "topics": [
         "adversarial-attacks",
         "adversarial-machine-learning",
