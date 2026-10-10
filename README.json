@@ -670,7 +670,7 @@
                 "open_issues": 2,
                 "owner": "safreita1",
                 "repo": "TIGER",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "adversarial-attacks",
                   "attack",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:10:35.353Z",
+    "last_updated": "2026-10-10T15:57:06.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
