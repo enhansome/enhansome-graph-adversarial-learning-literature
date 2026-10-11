@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "ventr1c",
                 "repo": "UGBA",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -371,7 +371,7 @@
                 "open_issues": 1,
                 "owner": "LFhase",
                 "repo": "GIA-HAO",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "adversarial-attacks",
                   "graph-adversarial-learning",
@@ -2026,7 +2026,7 @@
                 "open_issues": 1,
                 "owner": "tangxianfeng",
                 "repo": "PA-GNN",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "adversarial-defense",
                   "deep-learning",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:57:06.583Z",
+    "last_updated": "2026-10-11T16:25:03.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
