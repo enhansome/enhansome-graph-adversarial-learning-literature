@@ -922,7 +922,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -995,7 +995,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1084,7 +1084,7 @@
                 "open_issues": 9,
                 "owner": "Hanjun-Dai",
                 "repo": "graph_adversarial_attack",
-                "stars": 129,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.571Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1722,7 +1722,7 @@
                 "open_issues": 6,
                 "owner": "mims-harvard",
                 "repo": "GNNGuard",
-                "stars": 74,
+                "stars": 73,
                 "topics": [
                   "adversarial-attacks",
                   "deep-learning",
@@ -1865,7 +1865,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -1953,7 +1953,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2102,7 +2102,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2133,7 +2133,7 @@
                 "open_issues": 54,
                 "owner": "DSE-MSU",
                 "repo": "DeepRobust",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:13:15.690Z",
+    "last_updated": "2026-11-05T18:16:10.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
@@ -2191,7 +2191,7 @@
       "open_issues": 0,
       "owner": "safe-graph",
       "repo": "graph-adversarial-learning-literature",
-      "stars": 864,
+      "stars": 863,
       "topics": [
         "adversarial-attacks",
         "adversarial-machine-learning",
