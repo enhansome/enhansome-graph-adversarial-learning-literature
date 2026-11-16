@@ -667,7 +667,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-13T22:57:03Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "safreita1",
                 "repo": "TIGER",
                 "stars": 166,
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T17:23:31.867Z",
+    "last_updated": "2026-11-16T20:40:02.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
@@ -2191,7 +2191,7 @@
       "open_issues": 0,
       "owner": "safe-graph",
       "repo": "graph-adversarial-learning-literature",
-      "stars": 864,
+      "stars": 865,
       "topics": [
         "adversarial-attacks",
         "adversarial-machine-learning",
