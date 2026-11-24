@@ -488,7 +488,7 @@
                 "open_issues": 8,
                 "owner": "THUDM",
                 "repo": "grb",
-                "stars": 100,
+                "stars": 99,
                 "topics": [
                   "adversarial-attacks",
                   "deep-learning",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:13:10.134Z",
+    "last_updated": "2026-11-24T20:52:11.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
@@ -2191,7 +2191,7 @@
       "open_issues": 0,
       "owner": "safe-graph",
       "repo": "graph-adversarial-learning-literature",
-      "stars": 864,
+      "stars": 865,
       "topics": [
         "adversarial-attacks",
         "adversarial-machine-learning",
