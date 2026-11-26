@@ -1460,7 +1460,7 @@
                 "license": "MIT",
                 "last_commit": "2021-07-15T14:09:01Z",
                 "open_issues": 2,
-                "owner": "liaopeiyuan",
+                "owner": "radian-rises",
                 "repo": "GAL",
                 "stars": 37,
                 "topics": [
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:09:47.425Z",
+    "last_updated": "2026-11-26T19:49:01.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of adversarial attacks and defenses papers on graph-structured data.",
